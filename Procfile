@@ -1,1 +1,1 @@
-web: gunicorn webprojectyl.wsgi --log-file -
+web: gunicorn d-and-k.wsgi --log-file -
